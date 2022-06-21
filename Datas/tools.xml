@@ -1,12 +1,26 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <tool>
-  <field id="prodName">
-    <value>HAMMER HG2606</value>
-  </field>
-  <field id="prodNo">
-    <value>32456240</value>
-  </field>
-  <field id="price">
-    <value>$30.00</value>
-  </field>
+	<data>
+		<name>toto1</name>
+		<field id="prodName">
+			<value>HAMMER HG2606</value>
+		</field>
+		<field id="prodNo">
+			<value>32456240</value>
+		</field>
+		<field id="price">
+			<value>$30.00</value>
+		</field>
+	</data>
+	<data>
+		<name>toto2</name>
+		<field id="prodName2">
+			<value>22 HAMMER HG2606</value>
+		</field>
+		<field id="prodNo2">
+			<value>22 32456240</value>
+		</field>
+		<field id="price2">
+			<value>22 $30.00</value>
+		</field>
+	</data>
 </tool>
